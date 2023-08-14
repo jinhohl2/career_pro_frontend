@@ -1,5 +1,14 @@
 # Logs
 logs
 *.log
+
+# npm
 node_modules
-.next
+
+# Yarn Berry
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Optional (decide based on the above explanation)
+.yarn/cache/
