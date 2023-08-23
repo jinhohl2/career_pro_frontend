@@ -27,6 +27,7 @@ export default function Prompt() {
             headers: {
                 "Content-Type": "application/json",
             },
+            credentials:'include',
             body: JSON.stringify({
                 userMessages: tempUserMessages,
                 assistantMessages: assistantMessages

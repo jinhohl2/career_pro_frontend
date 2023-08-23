@@ -1,7 +1,7 @@
 {
   "pages": {
-    "/prompt": [],
-    "/interview": []
+    "/interview": [],
+    "/prompt": []
   },
   "app": {
     "/Users/jinholee/Academics/Projects/Interview_Pro/frontend/node_modules/next/font/google/target.css?{\"path\":\"src/pages/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": [

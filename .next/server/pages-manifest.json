@@ -3,9 +3,9 @@
   "/home": "pages/home.html",
   "/": "pages/index.html",
   "/layout": "pages/layout.html",
+  "/interview": "pages/interview.html",
   "/navbar": "pages/navbar.html",
   "/prompt": "pages/prompt.html",
-  "/interview": "pages/interview.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
