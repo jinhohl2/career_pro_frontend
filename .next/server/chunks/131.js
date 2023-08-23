@@ -202,7 +202,7 @@ function ChatUI({ mode , job , userMessages , setUserMessages , assistantMessage
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "T": () => (/* binding */ API_URL)
 /* harmony export */ });
-const API_URL = "http://localhost:3000";
+const API_URL = "https://eromrhyte7ehpe5vv3xqhmr5iu0duldb.lambda-url.us-east-1.on.aws";
 
 
 /***/ })
